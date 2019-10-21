@@ -1,1 +1,2 @@
 Yay for a text file.
+Another string of text.
